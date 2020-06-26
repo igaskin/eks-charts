@@ -7,7 +7,7 @@ metadata:
 data:
   grafana.ini: |
     [users]
-    default_theme = light
+    default_theme = dark
     [analytics]
     reporting_enabled = false
     check_for_updates = false
